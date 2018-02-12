@@ -1,0 +1,51 @@
+* {
+  font-family: Helvetica;
+}
+
+.title-background {
+  position: relative;
+  background-size: cover;
+}
+
+.title-text {
+  position: absolute;
+  top: -100px;
+  background: rgba(0, 0, 0, 0.0);
+  color: khaki;
+  width: 100%;
+  padding: 10px;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#frames {
+  background-color: lightcoral;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#paint {
+  background-color: skyblue;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+h3 {
+  font-weight: bold;
+}
+h4 {
+  font-weight: normal;
+}
+a {
+  font-weight: bold;
+  color: blue;
+}
